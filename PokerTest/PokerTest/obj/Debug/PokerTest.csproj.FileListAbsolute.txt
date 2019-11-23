@@ -1,0 +1,7 @@
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest\bin\Debug\PokerTest.exe.config
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest\bin\Debug\PokerTest.exe
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest\bin\Debug\PokerTest.pdb
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest\obj\Debug\PokerTest.csprojAssemblyReference.cache
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest\obj\Debug\PokerTest.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest\obj\Debug\PokerTest.exe
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest\obj\Debug\PokerTest.pdb

@@ -1,0 +1,17 @@
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\bin\Debug\PokerTest.Tests.dll
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\bin\Debug\PokerTest.Tests.pdb
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\bin\Debug\PokerTest.exe
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\bin\Debug\PokerTest.pdb
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\bin\Debug\PokerTest.exe.config
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\obj\Debug\PokerTest.Tests.csprojAssemblyReference.cache
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\obj\Debug\PokerTest.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\obj\Debug\PokerTest.Tests.csproj.CopyComplete
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\obj\Debug\PokerTest.Tests.dll
+C:\Users\Miguel Pagkatipunan\Documents\GitHub\PlayNGoTest\PokerTest\PokerTest.Tests\obj\Debug\PokerTest.Tests.pdb
